@@ -5,6 +5,6 @@ I' m Aleksander from Poland and I' m studying Computer Science at the Warsaw Uni
 Skills: C# / Python / HTML / CSS /  JS / PHP / XML
 
 
-## 🔗 Links:
+#### 🔗 Links:
 [My instagram](https://www.instagram.com/lewickyyy/)
 
