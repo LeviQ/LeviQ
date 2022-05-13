@@ -6,5 +6,5 @@ Skills: C# / Python / HTML / CSS /  JS / PHP / XML
 
 
 #### 🔗 Links:
-[My instagram](https://www.instagram.com/lewickyyy/)
+[My Instagram](https://www.instagram.com/lewickyyy/)
 
